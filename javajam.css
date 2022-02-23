@@ -20,3 +20,15 @@ header{ background-color: #D2B48C;
          padding-top:5x;
          padding-bottom:5px;
 }
+h1{ font-size: 3em;}
+h2{color:#8C3826;}
+h3, dt{color:#8C3826}
+h4{background-color:#D2B48C;
+   font-size:1.2em;
+    padding-left: .5em;
+     padding-bottom:.25em;
+}
+nav{font-weight:bold;
+         text-align:center;
+          font-size:1.5em;
+          padding-top:}
